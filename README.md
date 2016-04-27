@@ -1,2 +1,2 @@
 # watevarr
-A simple collision engine written in Python
+A simple collision engine module written in Python.
